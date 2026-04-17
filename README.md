@@ -384,3 +384,4 @@ https://hw-4-deployment-mipt.onrender.com/items
 
 1. Репозиторий GitHub: `https://github.com/steishas/hw-4-deployment-mipt`
 2. Публичный URL: `https://hw-4-deployment-mipt.onrender.com/items`
+3. [Jupyter Notebook](https://github.com/steishas/hw-4-deployment-mipt/blob/main/HW4_Docker_%D0%A1%D0%BC%D0%B8%D1%80%D0%BD%D0%BE%D0%B2%D0%B0_%D0%90_%D0%9C.ipynb)с кодом и заметками по ходу выполнения задания
